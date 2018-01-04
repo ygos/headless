@@ -1,0 +1,6 @@
+{
+    "api-port": 3000,
+    "chrome": "/opt/google/chrome/google-chrome",
+    "timeout": 10000,
+    "timeout-screenshot": 10000
+}
