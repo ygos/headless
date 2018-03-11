@@ -1,0 +1,12 @@
+{
+    "api-port":           3000,
+    "chrome":             "/opt/google/chrome/google-chrome",
+    "timeout":            10000,
+    "timeout-screenshot": 10000,
+    "mq_db":              "mq",
+    "mqkey_id" :          "mq_id",
+    "mqkey_batch" :       "mq_batch",
+    "mongo_url":          "mongodb://127.0.0.1:27017/mq",
+    "event": {"ready_total": 1000}
+}
+
