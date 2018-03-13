@@ -38,6 +38,10 @@ const eve = require('./browser/event');
 
 //mq.finish('event', 4);
 
-result = eve.parseEvent('http://www.ifeng.com');
-console.log(result);
+//result = eve.parseEvent('http://www.ifeng.com');
+//console.log(result);
 
+mongo.getAutoid('jingwu', 5)
+.then(function(docs){
+    console.log(docs)
+})

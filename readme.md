@@ -9,3 +9,12 @@
     yarn
 ```
 
+
+任务：
+{
+  "id":0,
+  "appkey":0,
+  "task_type":"",
+  "params":0,
+  "notify_url":0,
+}
